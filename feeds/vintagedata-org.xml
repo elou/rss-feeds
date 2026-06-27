@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>vintagedata.org</title>
+    <link>https://vintagedata.org</link>
+    <description>Auto-generated RSS feed for vintagedata.org</description>
+    <lastBuildDate>Sat, 27 Jun 2026 17:10:06 GMT</lastBuildDate>
+    <item>
+      <title>The AI Decoupling</title>
+      <link>https://vintagedata.org/blog/posts/the-ai-decoupling</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Synthetic Pretraining</title>
+      <link>https://vintagedata.org/blog/posts/synthetic-pretraining</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>A Realistic AI Timeline</title>
+      <link>https://vintagedata.org/blog/posts/realistic-ai-timeline</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Training As We Know It Will End</title>
+      <link>https://vintagedata.org/blog/posts/training-as-we-know-it-will-end</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Actual LLM Agents Are Coming</title>
+      <link>https://vintagedata.org/blog/posts/designing-llm-agents</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>The Model Is the Product</title>
+      <link>https://vintagedata.org/blog/posts/model-is-the-product</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>What's the Deal with Mid-training?</title>
+      <link>https://vintagedata.org/blog/posts/what-is-mid-training</link>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
