@@ -4,125 +4,17 @@
     <title>Goodfire</title>
     <link>https://www.goodfire.ai/research</link>
     <description>Auto-generated RSS feed for Goodfire</description>
-    <lastBuildDate>Mon, 20 Jul 2026 00:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:42:29 GMT</lastBuildDate>
     <item>
-      <title>Uncovering Neural Geometry in Vision Models With Block-Sparse Featurizers</title>
-      <link>https://www.goodfire.ai/research/bsf-vision</link>
-      <description>Fundamental ResearchFel et al.·July 7, 2026Fundamental ResearchUncovering Neural Geometry in Vision Models With Block-Sparse Featurizers /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citatio</description>
+      <title>Announcing our SOC 2 Type II Compliance</title>
+      <link>https://goodfire.ai/</link>
+      <description>Goodfire</description>
       
     </item>
     <item>
-      <title>Meandering on Manifolds: The Neural Geometry of Stories Over Time</title>
-      <link>https://www.goodfire.ai/research/stories-in-space</link>
-      <description>Fundamental ResearchBigelow et al.·June 23, 2026Fundamental ResearchMeandering on Manifolds: The Neural Geometry of Stories Over Time /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-l</description>
-      
-    </item>
-    <item>
-      <title>Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train</title>
-      <link>https://www.goodfire.ai/research/predictive-data-debugging</link>
-      <description>Applied ResearchBergen et al.·June 11, 2026Applied ResearchPredictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-</description>
-      
-    </item>
-    <item>
-      <title>Logits as a new monitor for evaluation awareness</title>
-      <link>https://www.goodfire.ai/research/logits-as-a-new-monitor-for-evaluation-awareness</link>
-      <description>Link postApplied ResearchSantiago Aranguri·June 4, 2026Link postApplied ResearchLogits as a new monitor for evaluation awareness /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, </description>
-      
-    </item>
-    <item>
-      <title>Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention</title>
-      <link>https://www.goodfire.ai/research/why-larger-models-learn-more</link>
-      <description>Fundamental ResearchLink postHuang et al.·June 1, 2026Fundamental ResearchLink postWhy Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d</description>
-      
-    </item>
-    <item>
-      <title>Can SAEs Capture Neural Geometry?</title>
-      <link>https://www.goodfire.ai/research/can-saes-capture-neural-geometry</link>
-      <description>Fundamental ResearchBhalla et al.·May 21, 2026Fundamental ResearchCan SAEs Capture Neural Geometry? /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display: blo</description>
-      
-    </item>
-    <item>
-      <title>A Geometric Calculator Inside a Neural Network</title>
-      <link>https://www.goodfire.ai/research/a-geometric-calculator</link>
-      <description>Fundamental ResearchFeucht et al.·May 14, 2026Fundamental ResearchA Geometric Calculator Inside a Neural Network /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer {</description>
-      
-    </item>
-    <item>
-      <title>Predicting Rare LLM Failures with 30× Fewer Rollouts</title>
-      <link>https://www.goodfire.ai/research/predicting-rare-llm-failures-with-30x-fewer-rollouts</link>
-      <description>Link postAranguri &amp; Pernice·May 13, 2026Link postPredicting Rare LLM Failures with 30× Fewer Rollouts /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display: b</description>
-      
-    </item>
-    <item>
-      <title>Steering Along Manifolds to Control Neural Networks</title>
-      <link>https://www.goodfire.ai/research/manifold-steering</link>
-      <description>Fundamental ResearchWurgaft et al.·May 7, 2026Fundamental ResearchSteering Along Manifolds to Control Neural Networks /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-foo</description>
-      
-    </item>
-    <item>
-      <title>The World Inside Neural Networks</title>
-      <link>https://www.goodfire.ai/research/the-world-inside-neural-networks</link>
-      <description>Fundamental ResearchGeiger et al.·May 7, 2026Fundamental ResearchThe World Inside Neural Networks /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display: block</description>
-      
-    </item>
-    <item>
-      <title>Paper Summary: Interpreting Language Model Parameters</title>
-      <link>https://www.goodfire.ai/research/vpd-explainer</link>
-      <description>Fundamental ResearchBushnaq et al.·May 5, 2026Fundamental ResearchPaper Summary: Interpreting Language Model Parameters /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-f</description>
-      
-    </item>
-    <item>
-      <title>Interpreting Language Model Parameters</title>
-      <link>https://www.goodfire.ai/research/interpreting-lm-parameters</link>
-      <description>Fundamental ResearchBushnaq et al.·May 5, 2026Fundamental ResearchInterpreting Language Model Parameters /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display</description>
-      
-    </item>
-    <item>
-      <title>Verbalized Eval Awareness Inflates Measured Safety</title>
-      <link>https://www.goodfire.ai/research/verbalized-eval-awareness-inflates-measured-safety</link>
-      <description>Applied ResearchAranguri and Bloom·May 4, 2026Applied ResearchVerbalized Eval Awareness Inflates Measured Safety /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer {</description>
-      
-    </item>
-    <item>
-      <title>Probe-Based Data Attribution: Surfacing and Mitigating Undesirable Behaviors in LLM Post-Training</title>
-      <link>https://www.goodfire.ai/research/probe-based-data-attribution</link>
-      <description>Applied ResearchXiao and Aranguri·April 29, 2026Applied ResearchProbe-Based Data Attribution: Surfacing and Mitigating Undesirable Behaviors in LLM Post-Training /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d</description>
-      
-    </item>
-    <item>
-      <title>Explaining 4.2 million genetic variants with state-of-the-art, interpretable predictions</title>
-      <link>https://www.goodfire.ai/research/evee-explaining-genetic-variants</link>
-      <description>Applied ResearchPearce et al.·April 14, 2026Applied ResearchExplaining 4.2 million genetic variants with state-of-the-art, interpretable predictions /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-lis</description>
-      
-    </item>
-    <item>
-      <title>Covariance-based Sequence Pooling</title>
-      <link>https://www.goodfire.ai/research/covariance-pooling</link>
-      <description>Fundamental ResearchDooms et al.·April 10, 2026Fundamental ResearchCovariance-based Sequence Pooling /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display: bl</description>
-      
-    </item>
-    <item>
-      <title>Using Self-Correcting Search to Accelerate Materials Discovery</title>
-      <link>https://www.goodfire.ai/research/self-correcting-search</link>
-      <description>Applied ResearchHazra et al.·April 1, 2026Applied ResearchUsing Self-Correcting Search to Accelerate Materials Discovery /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-</description>
-      
-    </item>
-    <item>
-      <title>Reasoning Theater: Probing for Performative Chain-of-Thought</title>
-      <link>https://www.goodfire.ai/research/reasoning-theater</link>
-      <description>Applied ResearchBoppana et al.·March 12, 2026Applied ResearchReasoning Theater: Probing for Performative Chain-of-Thought /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill</description>
-      
-    </item>
-    <item>
-      <title>Features as Rewards: Using Interpretability to Reduce Hallucinations</title>
-      <link>https://www.goodfire.ai/research/rlfr</link>
-      <description>Fundamental ResearchPrasad et al.·February 11, 2026Fundamental ResearchFeatures as Rewards: Using Interpretability to Reduce Hallucinations /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-cita</description>
-      
-    </item>
-    <item>
-      <title>Using Interpretability to Identify a Novel Class of Alzheimer's Biomarkers</title>
-      <link>https://www.goodfire.ai/research/interpretability-for-alzheimers-detection</link>
-      <description>Applied ResearchWang et al.·January 28, 2026Applied ResearchUsing Interpretability to Identify a Novel Class of Alzheimer's Biomarkers /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-</description>
+      <title>Background: A crash course on inference at scale</title>
+      <link>https://www.goodfire.ai/blog/interpretability-infra-at-frontier-scale#background-a-crash-course-on-inference-at-scale</link>
+      <description></description>
       
     </item>
   </channel>
