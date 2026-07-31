@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>labs.ramp.com</title>
+    <link>https://labs.ramp.com/research/</link>
+    <description>Auto-generated RSS feed for labs.ramp.com</description>
+    <lastBuildDate>Fri, 31 Jul 2026 20:43:51 GMT</lastBuildDate>
+    <item>
+      <title>PPoorrTTAALL:: PPoorrttaabbllee TTaasskk AAddaappttaattiioonn ffoorr LLooRRAA</title>
+      <link>https://labs.ramp.com/research/portal-portable-task-adaptation/</link>
+      <description>LLeeaarrnn aa ttaasskk aaddaappttaattiioonn oonnccee iinn aa bbaassee--aaggnnoossttiicc ffoorrmm,, tthheenn ppoorrtt iitt ttoo nneeww ffrroozzeenn mmooddeellss bbyy rreeffiittttiinngg oonnllyy aa tthhiinn ppeerr--bbaassee aalliiggnnmmeenntt —— rreeccoovveerriinngg ~~9988%% ooff ppeerr--ttaasskk LLoo</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBuuiillddiinngg FFaasstt &amp;&amp; AAccccuurraattee AAggeennttss wwiitthh PPrriimmee--RRLL PPoosstt TTrraaiinniinngg</title>
+      <link>https://labs.ramp.com/research/prime-rl-post-training/</link>
+      <description>HHooww PPrriimmee--RRLL ppoosstt ttrraaiinniinngg iimmpprroovveess aaggeenntt ssppeeeedd aanndd aaccccuurraaccyy ffoorr pprroodduuccttiioonn wwoorrkkfflloowwss..</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CCooddiinngg aaggeennttss iiggnnoorree tthheeiirr oowwnn bbuuddggeettss</title>
+      <link>https://labs.ramp.com/research/coding-agents-ignore-spend/</link>
+      <description>AAggeennttss ccaann''tt bbee ttrruusstteedd ttoo mmaannaaggee tthheeiirr oowwnn ttookkeenn bbuuddggeettss.. SSppeenndd ccoonnttrrooll hhaass ttoo lliivvee iinn aa sseeppaarraattee,, eevviiddeennccee--ggrroouunnddeedd ssyysstteemm oouuttssiiddee tthhee aaggeenntt ddooiinngg tthhee ssppeennddiinngg..</description>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLaatteenntt BBrriieeffiinngg:: EEffffiicciieenntt MMeemmoorryy SShhaarriinngg ffoorr MMuullttii--AAggeenntt SSyysstteemmss vviiaa KKVV CCaacchhee CCoommppaaccttiioonn</title>
+      <link>https://labs.ramp.com/research/latent-briefing-kv-cache/</link>
+      <description>AA RRaammpp LLaabbss wwrriitteeuupp oonn uussiinngg KKVV ccaacchhee ccoommppaaccttiioonn ttoo sshhaarree mmeemmoorryy eeffffiicciieennttllyy aaccrroossss mmuullttii--aaggeenntt ssyysstteemmss..</description>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HHooww wwee bbuuiilltt SStteeeerr,, oouurr iinntteerrpprreettaabbiilliittyy ppllaayyggrroouunndd</title>
+      <link>https://labs.ramp.com/research/how-we-built-steer/</link>
+      <description>AA ddeeeepp ddiivvee iinnttoo bbuuiillddiinngg SStteeeerr -- aann iinntteerraaccttiivvee ttooooll ffoorr eexxpplloorriinngg aanndd uunnddeerrssttaannddiinngg hhooww llaanngguuaaggee mmooddeellss pprroocceessss iinnffoorrmmaattiioonn iinntteerrnnaallllyy..</description>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HHooww wwee mmaaddee RRaammpp SShheeeettss sseellff--mmaaiinnttaaiinniinngg</title>
+      <link>https://labs.ramp.com/research/ramp-sheets-self-maintaining/</link>
+      <description>HHooww wwee bbuuiilltt aa ssyysstteemm tthhaatt lleettss RRaammpp SShheeeettss aauuttoommaattiiccaallllyy ddeetteecctt aanndd ffiixx iittss oowwnn iissssuueess -- rreedduucciinngg mmaannuuaall mmaaiinntteennaannccee aanndd iimmpprroovviinngg rreelliiaabbiilliittyy..</description>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PPoosstt TTrraaiinniinngg EEnnsseemmbbllee vvss.. SSiinngguullaarr MMooddeell AApppprrooaacchheess wwiitthh TTiinnkkeerr</title>
+      <link>https://labs.ramp.com/research/post-training-ensemble-tinker/</link>
+      <description>CCoommppaarriinngg eennsseemmbbllee aanndd ssiinngguullaarr mmooddeell ssttrraatteeggiieess ffoorr ppoosstt--ttrraaiinniinngg ooppttiimmiizzaattiioonn,, aanndd wwhhaatt wwee lleeaarrnneedd bbuuiillddiinngg TTiinnkkeerr ttoo eexxpplloorree tthheessee ttrraaddeeooffffss..</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WWee bbuuiilltt aann aaggeenntt ttoo pprroommpptt oouurr iinntteerrnnaall ffiinnaannccee aaggeenntt</title>
+      <link>https://labs.ramp.com/research/agent-to-prompt-finance-agent/</link>
+      <description>WWhhaatt hhaappppeennss wwhheenn yyoouu bbuuiilldd aann AAII aaggeenntt wwhhoossee jjoobb iiss ttoo ffiigguurree oouutt hhooww ttoo pprroommpptt aannootthheerr AAII aaggeenntt?? LLeessssoonnss ffrroomm rreeccuurrssiivvee aaggeenntt aarrcchhiitteeccttuurreess..</description>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HHooww wwee bbuuiilltt AAggeenntt FFiillll</title>
+      <link>https://labs.ramp.com/research/how-we-built-agent-fill/</link>
+      <description>TThhee ssttoorryy bbeehhiinndd AAggeenntt FFiillll -- aann AAII aaggeenntt tthhaatt aauuttoommaattiiccaallllyy ffiillllss oouutt ffoorrmmss bbyy uunnddeerrssttaannddiinngg ccoonntteexxtt,, eexxttrraaccttiinngg ddaattaa,, aanndd nnaavviiggaattiinngg ccoommpplleexx wwoorrkkfflloowwss..</description>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
