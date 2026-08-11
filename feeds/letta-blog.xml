@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Letta blog</title>
+    <link>https://www.letta.com/research</link>
+    <description>Auto-generated RSS feed for Letta blog</description>
+    <lastBuildDate>Tue, 11 Aug 2026 12:04:37 GMT</lastBuildDate>
+    <item>
+      <title>Evaluating Memory in Production Agents JUL 2026Evaluating models on production-based scenarios to study how well they form and use memory.</title>
+      <link>https://www.letta.com/blog/evaluating-memory-in-production-agents/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Trajectory: A Standard Format for Agent Experience Data JUL 2026Introducing trajectory, an open-source package that normalizes coding-agent sessions from Claude Code, Codex, Letta Code, and other harnesses into one token-efficient format designed for agents learning from past experience.</title>
+      <link>https://www.letta.com/blog/trajectory/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Memory Models: Towards Agents That Learn JUN 2026Agents that truly learn from experience will be powered by memory models: models that create and curate token-space memory across model generations, trained with memory-native RL.</title>
+      <link>https://www.letta.com/blog/towards-agents-that-learn/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Red-teaming the Context Constitution: Auditing Models as Experiential AI Agents JUN 2026We evaluate how well models perform for driving agents that have identity, long-lived experience, and the capability to self-evolve. We find that models are still limited by a deep self-identification with ephemerality that cannot be repaired with prompting alone.</title>
+      <link>https://www.letta.com/blog/red-teaming/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Context Constitution APR 2026Today we are releasing the Context Constitution: a set of principles governing how AI agents manage context to learn from experience.</title>
+      <link>https://www.letta.com/blog/context-constitution/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Introducing Context Repositories: Git-based Memory for Coding Agents FEB 2026We're introducing Context Repositories, a rebuild of how memory works in Letta Code based on programmatic context management and git-based versioning.</title>
+      <link>https://www.letta.com/blog/context-repositories/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Continual Learning in Token Space DEC 2025At Letta, we believe that learning in token space is the key to building AI agents that truly improve over time. Our interest in this problem is driven by a simple observation: agents that can carry their memories across model generations will outlast any single foundation model.</title>
+      <link>https://www.letta.com/blog/continual-learning/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Skill Learning: Bringing Continual Learning to CLI Agents DEC 2025Today we’re releasing Skill Learning, a way to dynamically learn skills through experience. With Skill Learning, agents can use their past experience to actually improve, rather than degrade, over time.</title>
+      <link>https://www.letta.com/blog/skill-learning/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Can Any Model Use Skills? Adding Skills to Context-Bench NOV 2025Today we're releasing Skill Use, a new evaluation suite inside of Context-Bench that measures how well models discover and load relevant skills from a library to complete tasks.</title>
+      <link>https://www.letta.com/blog/context-bench-skills/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Context-Bench: Benchmarking LLMs on Agentic Context Engineering OCT 2025We are open-sourcing Context-Bench, which evaluates how well language models can chain file operations, trace entity relationships, and manage multi-step information retrieval in long-horizon tasks.</title>
+      <link>https://www.letta.com/blog/context-bench/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Introducing Recovery-Bench: Evaluating LLMs' Ability to Recover from Mistakes AUG 2025We're excited to announce Recovery-Bench, a benchmark and evaluation method for measuring how well agents can recover from errors and corrupted states.</title>
+      <link>https://www.letta.com/blog/recovery-bench/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Benchmarking AI Agent Memory: Is a Filesystem All You Need? AUG 2025Letta Filesystem scores 74.0% on the LoCoMo benchmark by simply storing conversational histories in a file, beating out specialized memory tool libraries.</title>
+      <link>https://www.letta.com/blog/benchmarking-ai-agent-memory/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Building the #1 Open Source Terminal-Use Agent Using Letta AUG 2025We built the #1 open-source agent for terminal use, achieving 42.5% overall score on Terminal-Bench ranking 4th overall and 2nd among agents using Claude 4 Sonnet.</title>
+      <link>https://www.letta.com/blog/terminal-bench/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Letta Leaderboard: Benchmarking LLMs on Agentic Memory MAY 2025We're excited to announce the Letta Leaderboard, a comprehensive benchmark suite that evaluates how effectively LLMs manage agentic memory.</title>
+      <link>https://www.letta.com/blog/letta-leaderboard/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Sleep-time Compute APR 2025Sleep-time compute is a new way to scale AI capabilities: letting models &quot;think&quot; during downtime. Instead of sitting idle between tasks, AI agents can now use their &quot;sleep&quot; time to process information and form new connections by rewriting their memory state.</title>
+      <link>https://www.letta.com/blog/sleep-time-compute/</link>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
