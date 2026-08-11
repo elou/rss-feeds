@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>letta.com</title>
+    <link>https://www.letta.com/blog/</link>
+    <description>Auto-generated RSS feed for letta.com</description>
+    <lastBuildDate>Tue, 11 Aug 2026 12:04:04 GMT</lastBuildDate>
+    <item>
+      <title>Introducing Mods: Enabling Agents to Self-Improve through Harness-Level Adaptation PRODUCT — JUN 2026We’re introducing Mods to Letta Code — an agent-friendly way to extend and adapt the Letta Code harness.</title>
+      <link>https://www.letta.com/blog/introducing-mods/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Introducing the Letta Code App PRODUCT — APR 2026Today we’re launching the Letta Code app, a new way to interact with deeply personalized agents that learn over time and work locally on your machine.</title>
+      <link>https://www.letta.com/blog/introducing-the-letta-code-app/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Why Memory Isn't a Plugin CONCEPTS — APR 2026Memory cannot be bolted onto an agent as a plugin. Context and state management are core responsibilities of the agent harness itself.</title>
+      <link>https://www.letta.com/blog/why-memory-isnt-a-plugin/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Building Draft PRODUCT — MAR 2026How Sarah built Draft, a personal assistant that learns her workflows through memory, reflection, and self-managed skills.</title>
+      <link>https://www.letta.com/blog/building-draft/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Orchestrating Claude Code &amp; Codex Agents PRODUCT — MAR 2026How a memory-first coding agent can orchestrate context-isolated subagents for focused debugging, review, and implementation work.</title>
+      <link>https://www.letta.com/blog/orchestrating-coding-agents/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Letta's Next Phase COMPANY — MAR 2026Letta builds agents that learn. Agents with persistent memory, real computer access, and the infrastructure to improve from their own lived experience and work. Letta Code is the runtime that brings these together: git-backed memory, skills, subagents, and deployment that works across every model provider.</title>
+      <link>https://www.letta.com/blog/our-next-phase/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Remote Environments for Letta Code PRODUCT — MAR 2026Using remote environments, you can message an agent working on your laptop from your phone.</title>
+      <link>https://www.letta.com/blog/remote-environments-for-letta-code/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Conversations: Shared Agent Memory Across Concurrent Experiences PRODUCT — JAN 2026The Conversations API allows you to build agents that can maintain shared memory across parallel experiences with users</title>
+      <link>https://www.letta.com/blog/conversations/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Letta Code: A Memory-First Coding Agent PRODUCT — DEC 2025Introducing Letta Code, a memory-first coding agent. Letta Code is the #1 model-agnostic open source agent on the leading AI coding benchmark Terminal-Bench.</title>
+      <link>https://www.letta.com/blog/letta-code/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Programmatic Tool Calling with Any LLM PRODUCT — DEC 2025The Letta API now supports programmatic tool calling for any LLM model, enabling agents to generate their own workflows.</title>
+      <link>https://www.letta.com/blog/programmatic-tool-calling-with-any-llm/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Letta Evals: Evaluating Agents That Learn PRODUCT — OCT 2025Introducing Letta Evals: an open-source evaluation framework for systematically testing stateful agents.</title>
+      <link>https://www.letta.com/blog/letta-evals/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Rearchitecting Letta’s Agent Loop: Lessons from ReAct, MemGPT, &amp; Claude Code PRODUCT — OCT 2025Introducing Letta's new agent architecture, optimized for frontier reasoning models.</title>
+      <link>https://www.letta.com/blog/letta-v1-agent/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 4.5 and the Memory Omni-Tool in Letta PRODUCT — SEP 2025Letta agents can now take full advantage of Sonnet 4.5’s advanced memory tool capabilities to dynamically manage their own memory blocks.</title>
+      <link>https://www.letta.com/blog/introducing-sonnet-4-5-and-the-memory-omni-tool-in-letta/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Introducing Letta Filesystem PRODUCT — JUL 2025Today we're announcing Letta Filesystem, which provides an interface for agents to organize and reference content from documents like PDFs, transcripts, documentation, and more.</title>
+      <link>https://www.letta.com/blog/letta-filesystem/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Agent Memory: How to Build Agents That Learn and Remember CONCEPTS — JUL 2025Traditional LLMs operate in a stateless paradigm—each interaction exists in isolation, with no knowledge carried forward from previous conversations. Agent memory solves this problem.</title>
+      <link>https://www.letta.com/blog/agent-memory/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Anatomy of a Context Window: A Guide to Context Engineering CONCEPTS — JUL 2025As AI agents become more sophisticated, understanding how to design and manage their context windows (via context engineering) has become crucial for developers.</title>
+      <link>https://www.letta.com/blog/guide-to-context-engineering/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Memory Blocks: The Key to Agentic Context Management CONCEPTS — MAY 2025Memory blocks offer an elegant abstraction for context window management. By structuring the context into discrete, functional units, we can give LLM agents more consistent, usable memory.</title>
+      <link>https://www.letta.com/blog/memory-blocks/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Announcing Letta Client SDKs for Python and TypeScript PRODUCT — APR 2025We're releasing new client SDKs (support for TypeScript and Python) and upgraded developer documentation.</title>
+      <link>https://www.letta.com/blog/announcing-our-sdks/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Agent File PRODUCT — APR 2025Introducing Agent File (.af): An open file format for serializing stateful agents with persistent memory and behavior.</title>
+      <link>https://www.letta.com/blog/agent-file/</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>RAG Is Not Agent Memory CONCEPTS — FEB 2025Although RAG provides a way to connect LLMs and agents to more data than what can fit into context, traditional RAG is insufficient for building agent memory.</title>
+      <link>https://www.letta.com/blog/rag-vs-agent-memory/</link>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
