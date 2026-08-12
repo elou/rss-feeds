@@ -4,18 +4,7 @@
     <title>Goodfire</title>
     <link>https://www.goodfire.ai/research</link>
     <description>Auto-generated RSS feed for Goodfire</description>
-    <lastBuildDate>Sat, 25 Jul 2026 12:12:15 GMT</lastBuildDate>
-    <item>
-      <title>Announcing our SOC 2 Type II Compliance</title>
-      <link>https://goodfire.ai/</link>
-      <description>Goodfire</description>
-      
-    </item>
-    <item>
-      <title>Background: A crash course on inference at scale</title>
-      <link>https://www.goodfire.ai/blog/interpretability-infra-at-frontier-scale#background-a-crash-course-on-inference-at-scale</link>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 13:44:56 GMT</lastBuildDate>
+
   </channel>
 </rss>
