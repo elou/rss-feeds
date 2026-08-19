@@ -4,7 +4,13 @@
     <title>letta.com</title>
     <link>https://www.letta.com/blog/</link>
     <description>Auto-generated RSS feed for letta.com</description>
-    <lastBuildDate>Mon, 17 Aug 2026 10:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:57:09 GMT</lastBuildDate>
+    <item>
+      <title>Letta Agents SDK: An SDK for stateful agents PRODUCT — AUG 2026The Letta Agents SDK is designed for stateful, persistent agents that keep their identity, memory, and experience across models, machines, and interfaces.</title>
+      <link>https://www.letta.com/blog/introducing-the-letta-agent-sdk/</link>
+      <description></description>
+      
+    </item>
     <item>
       <title>Introducing Mods: Enabling Agents to Self-Improve through Harness-Level Adaptation PRODUCT — JUN 2026We’re introducing Mods to Letta Code — an agent-friendly way to extend and adapt the Letta Code harness.</title>
       <link>https://www.letta.com/blog/introducing-mods/</link>
@@ -116,12 +122,6 @@
     <item>
       <title>Agent File PRODUCT — APR 2025Introducing Agent File (.af): An open file format for serializing stateful agents with persistent memory and behavior.</title>
       <link>https://www.letta.com/blog/agent-file/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>RAG Is Not Agent Memory CONCEPTS — FEB 2025Although RAG provides a way to connect LLMs and agents to more data than what can fit into context, traditional RAG is insufficient for building agent memory.</title>
-      <link>https://www.letta.com/blog/rag-vs-agent-memory/</link>
       <description></description>
       
     </item>
