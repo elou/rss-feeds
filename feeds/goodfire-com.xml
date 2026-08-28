@@ -4,7 +4,13 @@
     <title>goodfire.com</title>
     <link>https://www.goodfire.com/research</link>
     <description>Auto-generated RSS feed for goodfire.com</description>
-    <lastBuildDate>Thu, 27 Aug 2026 12:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:27:28 GMT</lastBuildDate>
+    <item>
+      <title>Forking Fast: Efficiently Estimating Uncertainty Dynamics in Text Generation</title>
+      <link>https://www.goodfire.com/research/forking-fast</link>
+      <description>Fundamental ResearchBigelow et al.·August 20, 2026Fundamental ResearchForking Fast: Efficiently Estimating Uncertainty Dynamics in Text Generation /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list,</description>
+      
+    </item>
     <item>
       <title>Uncovering Neural Geometry in Vision Models With Block-Sparse Featurizers</title>
       <link>https://www.goodfire.com/research/bsf-vision</link>
@@ -117,12 +123,6 @@
       <title>Features as Rewards: Using Interpretability to Reduce Hallucinations</title>
       <link>https://www.goodfire.com/research/rlfr</link>
       <description>Fundamental ResearchPrasad et al.·February 11, 2026Fundamental ResearchFeatures as Rewards: Using Interpretability to Reduce Hallucinations /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-cita</description>
-      
-    </item>
-    <item>
-      <title>Using Interpretability to Identify a Novel Class of Alzheimer's Biomarkers</title>
-      <link>https://www.goodfire.com/research/interpretability-for-alzheimers-detection</link>
-      <description>Applied ResearchWang et al.·January 28, 2026Applied ResearchUsing Interpretability to Identify a Novel Class of Alzheimer's Biomarkers /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-</description>
       
     </item>
   </channel>
