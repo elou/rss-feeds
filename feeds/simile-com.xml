@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>simile.com</title>
+    <link>https://www.simile.com/blog</link>
+    <description>Auto-generated RSS feed for simile.com</description>
+    <lastBuildDate>Sat, 05 Sep 2026 16:50:29 GMT</lastBuildDate>
+    <item>
+      <title>Building the What-If Machine</title>
+      <link>https://www.simile.com/blog/what-if-machine</link>
+      <description>September 2, 2026Michael Bernstein·7 min read</description>
+      <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building confidence in Simile</title>
+      <link>https://www.simile.com/blog/confidence</link>
+      <description>August 25, 2026Andrew Wesel, Sarah Chen, and Percy Liang·7 min read</description>
+      <pubDate>Tue, 25 Aug 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing Simile’s Series B</title>
+      <link>https://www.simile.com/blog/series-b</link>
+      <description>July 30, 2026The Simile Team·2 min read</description>
+      <pubDate>Thu, 30 Jul 2026 14:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simulation: The Next Frontier for AI</title>
+      <link>https://www.simile.com/blog/simulation-next-frontier</link>
+      <description>March 10, 2026Percy Liang·3 min read</description>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CVS Health x Simile: Simulations for faster, safer decisions</title>
+      <link>https://www.simile.com/blog/simile-cvs-health</link>
+      <description>February 24, 2026Simile Business Staff·2 min read</description>
+      <pubDate>Tue, 24 Feb 2026 03:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Simulation Company</title>
+      <link>https://www.simile.com/blog/the-simulation-company</link>
+      <description>February 12, 2026The Simile Team·1 min read</description>
+      <pubDate>Thu, 12 Feb 2026 17:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
