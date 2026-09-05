@@ -4,16 +4,22 @@
     <title>utkarshkanwat.com</title>
     <link>https://utkarshkanwat.com/writing/betting-against-agents</link>
     <description>Auto-generated RSS feed for utkarshkanwat.com</description>
-    <lastBuildDate>Fri, 04 Sep 2026 18:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:52:12 GMT</lastBuildDate>
     <item>
       <title>TL;DR: Three Hard Truths About AI Agents</title>
-      <link>https://utkarshkanwat.com/cdn-cgi/l/email-protection#6e1b1a050f1c1d06050f00190f1a2e09030f0702400d0103</link>
+      <link>https://utkarshkanwat.com/cdn-cgi/l/email-protection#3643425d5744455e5d575841574276515b575f5a1855595b</link>
       <description>Everyone says 2025 is the year of AI agents. The headlines are everywhere: &quot;Autonomous AI will transform work,&quot; &quot;Agents are the next frontier,&quot; &quot;The future is agentic.&quot; Meanwhile, I've spent the last year building many different agent systems that actually work in production. And that's exactly why </description>
       
     </item>
     <item>
       <title>All writing</title>
       <link>https://utkarshkanwat.com/writing</link>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>A safety model will grade whichever text you show it last</title>
+      <link>https://utkarshkanwat.com/writing/safety-guards-wrong-document</link>
       <description></description>
       
     </item>
