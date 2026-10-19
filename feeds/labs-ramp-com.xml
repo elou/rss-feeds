@@ -4,12 +4,18 @@
     <title>labs.ramp.com</title>
     <link>https://labs.ramp.com/research/</link>
     <description>Auto-generated RSS feed for labs.ramp.com</description>
-    <lastBuildDate>Fri, 11 Sep 2026 11:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:25:13 GMT</lastBuildDate>
     <item>
       <title>PPoorrTTAALL:: PPoorrttaabbllee TTaasskk AAddaappttaattiioonn ffoorr LLooRRAA</title>
       <link>https://labs.ramp.com/research/portal-portable-task-adaptation/</link>
       <description>LLeeaarrnn aa ttaasskk aaddaappttaattiioonn oonnccee iinn aa bbaassee--aaggnnoossttiicc ffoorrmm,, tthheenn ppoorrtt iitt ttoo nneeww ffrroozzeenn mmooddeellss bbyy rreeffiittttiinngg oonnllyy aa tthhiinn ppeerr--bbaassee aalliiggnnmmeenntt —— rreeccoovveerriinngg ~~9988%% ooff ppeerr--ttaasskk LLoo</description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FFiinnddiinngg hhiigghh--sseevveerriittyy sseeccuurriittyy iissssuueess wwiitthh ppuubblliiccllyy aavvaaiillaabbllee mmooddeellss</title>
+      <link>https://labs.ramp.com/research/security-scanning-public-models/</link>
+      <description>WWee ppooiinntteedd 1100,,000000 ccooddiinngg aaggeennttss aatt RRaammpp''ss bbaacckkeenndd aanndd ffoouunndd sseevveenn ccoonnffiirrmmeedd hhiigghh--sseevveerriittyy vvuullnneerraabbiilliittiieess.. AA ssiimmppllee,, mmooddeell--aaggnnoossttiicc ppiippeelliinnee ffoorr ssccaalliinngg sseeccuurriitt</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>BBuuiillddiinngg FFaasstt &amp;&amp; AAccccuurraattee AAggeennttss wwiitthh PPrriimmee--RRLL PPoosstt TTrraaiinniinngg</title>

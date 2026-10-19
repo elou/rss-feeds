@@ -4,7 +4,13 @@
     <title>letta.com</title>
     <link>https://www.letta.com/blog/</link>
     <description>Auto-generated RSS feed for letta.com</description>
-    <lastBuildDate>Fri, 11 Sep 2026 11:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:25:14 GMT</lastBuildDate>
+    <item>
+      <title>Dynamic workflows for stateful agents and decision models PRODUCT — SEP 2026Letta Code now supports dynamic workflows, including for cloud agents, so agents can programmatically orchestrate subagents across many models and computers.</title>
+      <link>https://www.letta.com/blog/dynamic-workflows/</link>
+      <description></description>
+      
+    </item>
     <item>
       <title>Letta Agents SDK: An SDK for stateful agents PRODUCT — AUG 2026The Letta Agents SDK is designed for stateful, persistent agents that keep their identity, memory, and experience across models, machines, and interfaces.</title>
       <link>https://www.letta.com/blog/introducing-the-letta-agent-sdk/</link>
@@ -116,12 +122,6 @@
     <item>
       <title>Announcing Letta Client SDKs for Python and TypeScript PRODUCT — APR 2025We're releasing new client SDKs (support for TypeScript and Python) and upgraded developer documentation.</title>
       <link>https://www.letta.com/blog/announcing-our-sdks/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Agent File PRODUCT — APR 2025Introducing Agent File (.af): An open file format for serializing stateful agents with persistent memory and behavior.</title>
-      <link>https://www.letta.com/blog/agent-file/</link>
       <description></description>
       
     </item>

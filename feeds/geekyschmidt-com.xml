@@ -4,7 +4,13 @@
     <title>geekyschmidt.com</title>
     <link>https://geekyschmidt.com/archives/</link>
     <description>Auto-generated RSS feed for geekyschmidt.com</description>
-    <lastBuildDate>Thu, 24 Sep 2026 23:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Killing Another App: Breaking News via Miniflux, ntfy, and a Bit of Cron</title>
+      <link>https://geekyschmidt.com/post/2026-10-06-breakingnewsrss/</link>
+      <description>October 6, 2026 · 4 min · Nick Schmidt (oneguynick)</description>
+      
+    </item>
     <item>
       <title>The Circle Closes: Thin Clients Are Back and the 80s Never Left</title>
       <link>https://geekyschmidt.com/post/2026-09-14-lowendmac/</link>
@@ -117,12 +123,6 @@
       <title>Bytes to Bylines - My Unwritten Journey from Tech to Text</title>
       <link>https://geekyschmidt.com/post/2023-12-19-bytestobylines/</link>
       <description>December 19, 2023 · 2 min · Nick Schmidt (oneguynick)From Chunky Palmtops to Pocket-Sized PowerhousesDecember 13, 2023 · 2 min · Nick Schmidt (oneguynick)</description>
-      
-    </item>
-    <item>
-      <title>Measure Twice, Cut Once Trades Scholarship</title>
-      <link>https://geekyschmidt.com/post/2023-11-23-measuretwice-cut-once-scholarship/</link>
-      <description>November 23, 2023 · 2 min · Nick Schmidt (oneguynick)</description>
       
     </item>
   </channel>

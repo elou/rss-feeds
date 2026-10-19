@@ -4,7 +4,31 @@
     <title>goodfire.com</title>
     <link>https://www.goodfire.com/research</link>
     <description>Auto-generated RSS feed for goodfire.com</description>
-    <lastBuildDate>Fri, 11 Sep 2026 11:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:25:13 GMT</lastBuildDate>
+    <item>
+      <title>Neural Networks Are Already Clean</title>
+      <link>https://www.goodfire.com/research/already-clean</link>
+      <description>Fundamental ResearchNick Cammarata·October 15, 2026Fundamental ResearchNeural Networks Are Already Clean /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display</description>
+      
+    </item>
+    <item>
+      <title>Training and Deploying Production Cyber Monitors on Kimi K3</title>
+      <link>https://www.goodfire.com/research/production-cyber-monitors-on-kimi-k3</link>
+      <description>Applied ResearchLubana et al.·October 8, 2026Applied ResearchTraining and Deploying Production Cyber Monitors on Kimi K3 /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-</description>
+      
+    </item>
+    <item>
+      <title>Better biosecurity monitors for AI agents via protein embeddings</title>
+      <link>https://www.goodfire.com/research/better-biosecurity-monitors</link>
+      <description>Applied ResearchDooms et al.·October 1, 2026Applied ResearchBetter biosecurity monitors for AI agents via protein embeddings /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, dist</description>
+      
+    </item>
+    <item>
+      <title>Models know when they’re reward hacking — and we can catch them at scale</title>
+      <link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
+      <description>Applied ResearchBergen et al.·September 17, 2026Applied ResearchModels know when they’re reward hacking — and we can catch them at scale /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citatio</description>
+      
+    </item>
     <item>
       <title>Forking Fast: Efficiently Estimating Uncertainty Dynamics in Text Generation</title>
       <link>https://www.goodfire.com/research/forking-fast</link>
@@ -99,30 +123,6 @@
       <title>Explaining 4.2 million genetic variants with state-of-the-art, interpretable predictions</title>
       <link>https://www.goodfire.com/research/evee-explaining-genetic-variants</link>
       <description>Applied ResearchPearce et al.·April 14, 2026Applied ResearchExplaining 4.2 million genetic variants with state-of-the-art, interpretable predictions /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-lis</description>
-      
-    </item>
-    <item>
-      <title>Covariance-based Sequence Pooling</title>
-      <link>https://www.goodfire.com/research/covariance-pooling</link>
-      <description>Fundamental ResearchDooms et al.·April 10, 2026Fundamental ResearchCovariance-based Sequence Pooling /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-footer { display: bl</description>
-      
-    </item>
-    <item>
-      <title>Using Self-Correcting Search to Accelerate Materials Discovery</title>
-      <link>https://www.goodfire.com/research/self-correcting-search</link>
-      <description>Applied ResearchHazra et al.·April 1, 2026Applied ResearchUsing Self-Correcting Search to Accelerate Materials Discovery /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill-</description>
-      
-    </item>
-    <item>
-      <title>Reasoning Theater: Probing for Performative Chain-of-Thought</title>
-      <link>https://www.goodfire.com/research/reasoning-theater</link>
-      <description>Applied ResearchBoppana et al.·March 12, 2026Applied ResearchReasoning Theater: Probing for Performative Chain-of-Thought /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-citation-list, distill</description>
-      
-    </item>
-    <item>
-      <title>Features as Rewards: Using Interpretability to Reduce Hallucinations</title>
-      <link>https://www.goodfire.com/research/rlfr</link>
-      <description>Fundamental ResearchPrasad et al.·February 11, 2026Fundamental ResearchFeatures as Rewards: Using Interpretability to Reduce Hallucinations /* Override Distill’s grid layout */ .base-grid, distill-header, d-title, d-abstract, d-article, d-appendix, distill-appendix, d-byline, d-footnote-list, d-cita</description>
       
     </item>
   </channel>
