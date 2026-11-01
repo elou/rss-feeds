@@ -4,11 +4,35 @@
     <title>digitaleconomy.stanford.edu</title>
     <link>https://digitaleconomy.stanford.edu/research/all-work/</link>
     <description>Auto-generated RSS feed for digitaleconomy.stanford.edu</description>
-    <lastBuildDate>Mon, 26 Oct 2026 19:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:35:37 GMT</lastBuildDate>
     <item>
-      <title>No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%</title>
-      <link>https://digitaleconomy.stanford.edu/news/canariesaug26/</link>
-      <description>In August 2026, the authors of &quot;Canaries in the Coal Mine?&quot; published a revised version of their paper, with a larger set of data granting a fuller view of AI's impact on employment. Researchers: Erik Brynjolfsson, Bharat Chandar, Ruyu Chen Insights Economics of transformative ai</description>
+      <title>TaskNet</title>
+      <link>https://digitaleconomy.stanford.edu/project/tasknet/</link>
+      <description>Understanding how AI is reshaping work requires an accurate account of the tasks workers perform. We introduce the Stanford Task Network (TaskNet), an occupational taxonomy grounded directly in workers’ accounts of their everyday work. Researchers: Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil </description>
+      
+    </item>
+    <item>
+      <title>Kordi: Building AI-Native Supercollaboration</title>
+      <link>https://digitaleconomy.stanford.edu/project/kordi-building-ai-native-supercollaboration/</link>
+      <description>Researchers: Jiaxin Pei, José Ramón Enríquez, Sandy Pentland, Shu Yang, Shenzhe Zhu, Hao Zhu, Di Wang, Michiel Bakker project</description>
+      
+    </item>
+    <item>
+      <title>HUMANLY: A Configurable and Traceable Environment for Human-AI Collaborative Writing</title>
+      <link>https://digitaleconomy.stanford.edu/project/humanly-a-configurable-and-traceable-environment-for-human-ai-collaborative-writing/</link>
+      <description>Researchers: Jiaxin Pei, Sandy Pentland, Shenzhe Zhu, Haoqian Zhang, Xu Yang, Jingyu Tang, Yi Nian, Xiaoxue Du, Shu Yang, Joachim Baumann project Ai agents</description>
+      
+    </item>
+    <item>
+      <title>TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale</title>
+      <link>https://digitaleconomy.stanford.edu/publication/tasknet-building-occupational-task-inventories-from-worker-interviews-at-scale/</link>
+      <description>Authors: Jennifer Wang et al. publication Digital platforms and society</description>
+      
+    </item>
+    <item>
+      <title>Realtime-Bench: Can Frontier Models Solve Real-time Interactive Problems?</title>
+      <link>https://digitaleconomy.stanford.edu/publication/realtime-bench-can-frontier-models-solve-real-time-interactive-problems/</link>
+      <description>Authors: Jingyu Tang et al. publication Digital platforms and society</description>
       
     </item>
     <item>
@@ -48,39 +72,15 @@
       
     </item>
     <item>
+      <title>No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%</title>
+      <link>https://digitaleconomy.stanford.edu/news/canariesaug26/</link>
+      <description>In August 2026, the authors of &quot;Canaries in the Coal Mine?&quot; published a revised version of their paper, with a larger set of data granting a fuller view of AI's impact on employment. Researchers: Erik Brynjolfsson, Bharat Chandar, Ruyu Chen Insights Economics of transformative ai</description>
+      
+    </item>
+    <item>
       <title>Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence</title>
       <link>https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/</link>
       <description>Authors: Erik Brynjolfsson, Bharat Chandar, Ruyu Chen publication Economics of transformative ai New measures of the economy</description>
-      
-    </item>
-    <item>
-      <title>“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists and AI Researchers in Call to Prepare for AI’s Economic Transformation</title>
-      <link>https://digitaleconomy.stanford.edu/news/wemustactnow/</link>
-      <description>Researchers: Erik Brynjolfsson, Ajay Agrawal, Anton Korinek News</description>
-      
-    </item>
-    <item>
-      <title>Trusted AI: A lot is happening</title>
-      <link>https://digitaleconomy.stanford.edu/news/trusted-ai-a-lot-is-happening/</link>
-      <description>Faculty Lead Sandy Pentland discusses the push for trustworthy AI agents in trade and finance as a practical first step in the broader global effort to govern AI. Researcher: Sandy Pentland Insights Ai agents</description>
-      
-    </item>
-    <item>
-      <title>Portable Memory</title>
-      <link>https://digitaleconomy.stanford.edu/project/portable-memory/</link>
-      <description>Researchers: Sandy Pentland, Jiaxin Pei, Zexue He, Lucas Novak, Beth Porter project</description>
-      
-    </item>
-    <item>
-      <title>The AI Economic Indicators</title>
-      <link>https://digitaleconomy.stanford.edu/project/indicators/</link>
-      <description>This expanding, multi-faceted platform provides frequently updated, curated metrics tracking AI's impact on the economy. project Economics of transformative ai New measures of the economy</description>
-      
-    </item>
-    <item>
-      <title>Stanford Digital Economy Lab Launches the AI Economic Indicators, Tracking AI’s Impact on the Economy</title>
-      <link>https://digitaleconomy.stanford.edu/news/stanford-digital-economy-lab-launches-the-ai-economic-indicators-tracking-ais-impact-on-the-economy/</link>
-      <description>Researchers: Erik Brynjolfsson, Nela Richardson, Christie Ko, Connacher Murphy, Susan Young, Matty Smith News</description>
       
     </item>
   </channel>
