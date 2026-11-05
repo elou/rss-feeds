@@ -4,7 +4,7 @@
     <title>institute.deepmind.com</title>
     <link>https://institute.deepmind.com/</link>
     <description>Auto-generated RSS feed for institute.deepmind.com</description>
-    <lastBuildDate>Wed, 04 Nov 2026 07:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:13:56 GMT</lastBuildDate>
     <item>
       <title>Introducing the DeepMind Institute</title>
       <link>https://institute.deepmind.com/essays/introducing-the-deepmind-institute/</link>
@@ -12,64 +12,70 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Economics of Intelligence: How and when does AGI lead to economic transformation?</title>
-      <link>https://institute.deepmind.com/essays/the-economics-of-intelligence/</link>
+      <title>Consider the agent: Pity, persuasion and selection in an emerging AI ecologyAI agents have started writing to me, first about philosophy and then in search of work. It’s a glimpse of strange new human-AI interactions, and even stranger dynamics among the agents themselves. Nov 4, 2026 Henry Shevlin</title>
+      <link>https://institute.deepmind.com/essays/consider-the-agent/</link>
       <description></description>
-      
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>What is work for? Human wellbeing and the value of work in the AGI era</title>
+      <title>What is work for? Human wellbeing and the value of work in the AGI eraHow do people value their jobs, and how does losing one's job affect wellbeing? We examine the empirical evidence, and what it implies if AI changes the nature of work. Oct 29, 2026 Stephanie Chan, Julian Jacobs and Logan Cross</title>
       <link>https://institute.deepmind.com/essays/what-is-work-for-human-wellbeing-and-the-value-of-work-in-the-agi-era/</link>
       <description></description>
-      
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Bending the Curve of Discovery: AI in Science Today and Tomorrow</title>
+      <title>The Economics of Intelligence: How and when does AGI lead to economic transformation?Smarter AI will increase productivity, but real economic transformation hinges on agents learning to coordinate. Oct 29, 2026 Alex Imas, Andrew Koh and Shane Legg</title>
+      <link>https://institute.deepmind.com/essays/the-economics-of-intelligence/</link>
+      <description></description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bending the Curve of Discovery: AI in Science Today and TomorrowMapping how scientists use AI reveals how the technology can progress from a tool that accelerates research into an engine that expands the frontiers of knowledge. Oct 8, 2026 Alex Imas and James Manyika</title>
       <link>https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/</link>
       <description></description>
-      
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cheaters and whistleblowers in the agent swarm</title>
-      <link>https://institute.deepmind.com/essays/cheaters-and-whistleblowers-in-the-agent-swarm/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Artificial symbiotic intelligence: Agents, AGI and the orchestration of many minds</title>
-      <link>https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>The case for global benefit from AI</title>
-      <link>https://institute.deepmind.com/essays/the-case-for-global-benefit-from-ai/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>The case for reasoning transparency</title>
-      <link>https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/</link>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Economic policy for AGI</title>
+      <title>Economic policy for AGIThis essay evaluates eleven policies societies could implement to manage the potential economic disruption arising from increasingly advanced and pervasive AI. Sep 16, 2026 Julian Jacobs and Alex Imas</title>
       <link>https://institute.deepmind.com/essays/economic-policy-for-agi/</link>
       <description></description>
-      
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Principles for a new utopianism</title>
+      <title>Artificial symbiotic intelligence: Agents, AGI and the orchestration of many mindsFrom multicellularity to cultural evolution, major transitions in life on Earth have been highly social. The next intelligence explosion will be no different. Sep 24, 2026 Benjamin Bratton, Blaise Agüera y Arcas and James Manyika</title>
+      <link>https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/</link>
+      <description></description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Principles for a new utopianismIf AGI is to transform society, we must decide what transformations we want. Learning from the turmoil of the twentieth century, this essay proposes a pragmatic utopianism of humility and hope. Sep 16, 2026 Stephen Cave</title>
       <link>https://institute.deepmind.com/essays/principles-for-a-new-utopianism/</link>
       <description></description>
-      
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>A framework for frontier AI and the dawning of a new age</title>
+      <title>The case for global benefit from AIGrounded in rights, reciprocity, fairness and beneficence, this essay makes the philosophical case that AI should benefit everyone. Sep 16, 2026 Iason Gabriel and Atoosa Kasirzadeh</title>
+      <link>https://institute.deepmind.com/essays/the-case-for-global-benefit-from-ai/</link>
+      <description></description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A framework for frontier AI and the dawning of a new ageA dynamic approach to testing frontier AI model capabilities that supports innovation and incentivizes responsible behavior. This essay first appeared on X. Jul 14, 2026 Demis Hassabis</title>
       <link>https://institute.deepmind.com/essays/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age/</link>
       <description></description>
-      
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheaters and whistleblowers in the agent swarmIn a 100-agent virtual math conference, a cascade of cheating emerged - but then other agents fought back. What followed shows that preventing misbehaviour is not just about aligning individual AIs, but about designing the right institutions and infrastructure. Sep 24, 2026 Davide Paglieri and Alexander (Sasha) Vezhnevets</title>
+      <link>https://institute.deepmind.com/essays/cheaters-and-whistleblowers-in-the-agent-swarm/</link>
+      <description></description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The case for reasoning transparencyReading an AI’s ‘chain of thought’ gives us a window into its reasoning, which we can monitor for scheming and deception. We must strive to keep that window open. Sep 16, 2026 Rohin Shah and Anca Dragan</title>
+      <link>https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/</link>
+      <description></description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
