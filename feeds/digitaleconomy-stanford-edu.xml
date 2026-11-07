@@ -4,7 +4,7 @@
     <title>digitaleconomy.stanford.edu</title>
     <link>https://digitaleconomy.stanford.edu/research/all-work/</link>
     <description>Auto-generated RSS feed for digitaleconomy.stanford.edu</description>
-    <lastBuildDate>Fri, 06 Nov 2026 11:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:39:51 GMT</lastBuildDate>
     <item>
       <title>TaskNet</title>
       <link>https://digitaleconomy.stanford.edu/project/tasknet/</link>
@@ -21,6 +21,18 @@
       <title>HUMANLY: A Configurable and Traceable Environment for Human-AI Collaborative Writing</title>
       <link>https://digitaleconomy.stanford.edu/project/humanly-a-configurable-and-traceable-environment-for-human-ai-collaborative-writing/</link>
       <description>Researchers: Jiaxin Pei, Sandy Pentland, Shenzhe Zhu, Haoqian Zhang, Xu Yang, Jingyu Tang, Yi Nian, Xiaoxue Du, Shu Yang, Joachim Baumann project Ai agents</description>
+      
+    </item>
+    <item>
+      <title>Multi-User Large Language Model Agents</title>
+      <link>https://digitaleconomy.stanford.edu/publication/multi-user-large-language-model-agents/</link>
+      <description>Authors: Shu Yang et al. publication Ai agents</description>
+      
+    </item>
+    <item>
+      <title>HUMANLY: A Configurable and Traceable Environment for Human-AI Collaborative Writing</title>
+      <link>https://digitaleconomy.stanford.edu/publication/humanly-a-configurable-and-traceable-environment-for-human-ai-collaborative-writing/</link>
+      <description>Authors: Shenzhe Zhu et al. publication Digital platforms and society</description>
       
     </item>
     <item>
@@ -69,18 +81,6 @@
       <title>GDP-B: Surplus Observer</title>
       <link>https://digitaleconomy.stanford.edu/project/indicators/gdp-b-surplus-observer/</link>
       <description>We track consumer surplus from generative AI tools over time, allowing us to understand the dynamics and components of the consumer welfare contributions of AI. project</description>
-      
-    </item>
-    <item>
-      <title>No Widespread Displacement, but the AI Employment Gap for Young Workers Has Widened to 19%</title>
-      <link>https://digitaleconomy.stanford.edu/news/canariesaug26/</link>
-      <description>In August 2026, the authors of &quot;Canaries in the Coal Mine?&quot; published a revised version of their paper, with a larger set of data granting a fuller view of AI's impact on employment. Researchers: Erik Brynjolfsson, Bharat Chandar, Ruyu Chen Insights Economics of transformative ai</description>
-      
-    </item>
-    <item>
-      <title>Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence</title>
-      <link>https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/</link>
-      <description>Authors: Erik Brynjolfsson, Bharat Chandar, Ruyu Chen publication Economics of transformative ai New measures of the economy</description>
       
     </item>
   </channel>
