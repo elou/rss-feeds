@@ -4,11 +4,29 @@
     <title>digitaleconomy.stanford.edu</title>
     <link>https://digitaleconomy.stanford.edu/research/all-work/</link>
     <description>Auto-generated RSS feed for digitaleconomy.stanford.edu</description>
-    <lastBuildDate>Fri, 13 Nov 2026 07:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:14:37 GMT</lastBuildDate>
     <item>
       <title>TaskNet</title>
       <link>https://digitaleconomy.stanford.edu/project/tasknet/</link>
       <description>Understanding how AI is reshaping work requires an accurate account of the tasks workers perform. We introduce the Stanford Task Network (TaskNet), an occupational taxonomy grounded directly in workers’ accounts of their everyday work. Researchers: Jennifer Wang, Andreas Haupt, Isaac Robinson, Phil </description>
+      
+    </item>
+    <item>
+      <title>Method, Mind, and Morality: How People Make Sense of Artificial Intelligence</title>
+      <link>https://digitaleconomy.stanford.edu/publication/method-mind-and-morality-how-people-make-sense-of-artificial-intelligence/</link>
+      <description>Authors: Jacy Reese Anthis, Erik Brynjolfsson, James Allen Evans publication</description>
+      
+    </item>
+    <item>
+      <title>Q&amp;A | TaskNet: Understanding AI’s impact on work by understanding the work itself</title>
+      <link>https://digitaleconomy.stanford.edu/news/qa-tasknet-understanding-ais-impact-on-work-by-understanding-the-work-itself/</link>
+      <description>Researchers: Jennifer Wang, Andreas Haupt Insights</description>
+      
+    </item>
+    <item>
+      <title>Sampling Is Not Curiosity: Why LLM Agents Should Investigate</title>
+      <link>https://digitaleconomy.stanford.edu/publication/sampling-is-not-curiosity-why-llm-agents-should-investigate/</link>
+      <description>Authors: Alfonso Amayuelas et al. publication Ai agents</description>
       
     </item>
     <item>
@@ -63,24 +81,6 @@
       <title>The Economics of Transformative AI</title>
       <link>https://digitaleconomy.stanford.edu/publication/the-economics-of-transformative-ai/</link>
       <description>Authors: Ajay Agrawal, Erik Brynjolfsson, Anton Korinek publication Economics of transformative ai</description>
-      
-    </item>
-    <item>
-      <title>Will Artificial Intelligence Replace Me? Automation Susceptibility of Emergency Physician Tasks</title>
-      <link>https://digitaleconomy.stanford.edu/publication/will-artificial-intelligence-replace-me-automation-susceptibility-of-emergency-physician-tasks/</link>
-      <description>Authors: Christian Rose, MD et al. publication</description>
-      
-    </item>
-    <item>
-      <title>Pricing Consulting Services in the Age of Agentic AI: A Strategy Map for Executives</title>
-      <link>https://digitaleconomy.stanford.edu/publication/pricing-consulting-services-in-the-age-of-agentic-ai-a-strategy-map-for-executives/</link>
-      <description>Authors: Erik Brynjolfsson, Georgios Petropoulos publication Ai agents</description>
-      
-    </item>
-    <item>
-      <title>GDP-B: Surplus Observer</title>
-      <link>https://digitaleconomy.stanford.edu/project/indicators/gdp-b-surplus-observer/</link>
-      <description>We track consumer surplus from generative AI tools over time, allowing us to understand the dynamics and components of the consumer welfare contributions of AI. project</description>
       
     </item>
   </channel>
